@@ -1,0 +1,47 @@
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.deps.json
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfoInputs.cache
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfo.cs
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.CoreCompileInputs.cache
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/refint/ClassDataBaseLibrary.dll
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/source/repos/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ref/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.deps.json
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfo.cs
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/refint/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ref/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.deps.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfo.cs
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/refint/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ref/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.deps.json
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.AssemblyReference.cache
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfoInputs.cache
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.AssemblyInfo.cs
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.csproj.CoreCompileInputs.cache
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/refint/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ClassDataBaseLibrary.pdb
+/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/Debug/net7.0/ref/ClassDataBaseLibrary.dll

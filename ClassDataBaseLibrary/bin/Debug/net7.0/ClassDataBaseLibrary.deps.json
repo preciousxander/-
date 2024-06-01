@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ClassDataBaseLibrary/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.16"
+        },
+        "runtime": {
+          "ClassDataBaseLibrary.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/7.0.16": {
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "7.0.16.0",
+            "fileVersion": "7.0.1624.6616"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassDataBaseLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/7.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-emuQo430RBfwZSxwTYKu0/+ohRixXaRNi3njEbzcnaFqc94oU6afcx5KYtk5/lrBQn58Oo0CUmDRhMeFQI4Kgg==",
+      "path": "microsoft.entityframeworkcore.abstractions/7.0.16",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512"
+    }
+  }
+}

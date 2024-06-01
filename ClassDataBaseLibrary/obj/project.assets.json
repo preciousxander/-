@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.EntityFrameworkCore.Abstractions/7.0.16": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.EntityFrameworkCore.Abstractions/7.0.16": {
+      "sha512": "emuQo430RBfwZSxwTYKu0/+ohRixXaRNi3njEbzcnaFqc94oU6afcx5KYtk5/lrBQn58Oo0CUmDRhMeFQI4Kgg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.abstractions/7.0.16",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
+        "microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.EntityFrameworkCore.Abstractions >= 7.0.16"
+    ]
+  },
+  "packageFolders": {
+    "/Users/preciousxander/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj",
+      "projectName": "ClassDataBaseLibrary",
+      "projectPath": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj",
+      "packagesPath": "/Users/preciousxander/.nuget/packages/",
+      "outputPath": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/preciousxander/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.16, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
