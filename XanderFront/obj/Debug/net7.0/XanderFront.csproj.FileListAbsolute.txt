@@ -1,0 +1,175 @@
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.staticwebassets.runtime.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.exe
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.deps.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.runtimeconfig.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfoInputs.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfo.cs
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CoreCompileInputs.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cs
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.XanderFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.build.XanderFront.props
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.XanderFront.props
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.XanderFront.props
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/bundle/XanderFront.styles.css
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/projectbundle/XanderFront.bundle.scp.css
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/refint/XanderFront.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.genruntimeconfig.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/ref/XanderFront.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.AssemblyReference.cache
+C:/Users/Yura/source/repos/XanderFront/XanderFront/obj/Debug/net7.0/XanderFr.BF4175C3.Up2Date
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/source/repos/XanderFront/XanderFront/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.staticwebassets.runtime.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.exe
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.deps.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.runtimeconfig.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfo.cs
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cs
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.XanderFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.build.XanderFront.props
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.XanderFront.props
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.XanderFront.props
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/bundle/XanderFront.styles.css
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/projectbundle/XanderFront.bundle.scp.css
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CopyComplete
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/refint/XanderFront.dll
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.genruntimeconfig.cache
+C:/Users/Yura/Desktop/zii/XanderFront/XanderFront/obj/Debug/net7.0/ref/XanderFront.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.staticwebassets.runtime.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.exe
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.deps.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.runtimeconfig.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfo.cs
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cs
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.XanderFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.build.XanderFront.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.XanderFront.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.XanderFront.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/bundle/XanderFront.styles.css
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/projectbundle/XanderFront.bundle.scp.css
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFr.BF4175C3.Up2Date
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/refint/XanderFront.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.genruntimeconfig.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/XanderFront/obj/Debug/net7.0/ref/XanderFront.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.Development.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/appsettings.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.staticwebassets.runtime.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.deps.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.runtimeconfig.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/XanderFront.pdb
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.AssemblyReference.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfoInputs.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.AssemblyInfo.cs
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CoreCompileInputs.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.MvcApplicationPartsAssemblyInfo.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.RazorAssemblyInfo.cs
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.XanderFront.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.build.XanderFront.props
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.XanderFront.props
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.XanderFront.props
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.build.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/staticwebassets.development.json
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/bundle/XanderFront.styles.css
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/scopedcss/projectbundle/XanderFront.bundle.scp.css
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.csproj.CopyComplete
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/refint/XanderFront.dll
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.pdb
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/XanderFront.genruntimeconfig.cache
+/Users/preciousxander/Downloads/XanderFront/XanderFront/obj/Debug/net7.0/ref/XanderFront.dll

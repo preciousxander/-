@@ -1,0 +1,206 @@
+﻿@page
+@model XanderFront.Pages.ApplicationModel
+@{
+}
+
+<h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Заявление</h3>
+
+<div class="w-50 p-3 mx-auto">
+    <div class="row">
+        <div data-mdb-input-init class="form-outline">
+            <label class="form-label">Университет</label>
+            @* <input type="text" id="firstName" class="form-control form-control-lg" /> *@
+            @Html.DropDownList("University",
+                     new SelectList(Model.univer, "Id", "UniversityName"),
+                     "Выберите университет",
+                     new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div data-mdb-input-init class="form-outline">
+            <label class="form-label">Факультет</label>
+            <select id="Faculty" name="Faculty" class="form-control">
+                <option value="default" selected>Выберите факультет</option>
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div data-mdb-input-init class="form-outline">
+            <label class="form-label">Программа обучения</label>
+            <select id="Program" name="Program" class="form-control">
+                <option value="default" selected>Выберите программу обучения</option>
+            </select>
+        </div>
+    </div>
+
+
+    <div class="mt-4 pt-2">
+        <input data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg" type="submit" value="Отправить" id="Submit" />
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Вы были успешно зарегестрированы!
+            </div>
+            <div class="modal-footer">
+                <script>
+                </script>
+                @* <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> *@
+                <button type="button" class="btn btn-primary" id="ok_button">Ок</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'))
+
+        document.getElementsByClassName("close")[0].addEventListener("click", function () {
+            myModal.hide();
+        });
+
+        document.getElementById("ok_button").addEventListener("click", function () {
+            myModal.hide();
+        });
+
+        var univer = document.getElementById("University");
+        var fac = document.getElementById("Faculty");
+        var prog = document.getElementById("Program");
+
+        document.getElementById("Submit").addEventListener("click", async function () {
+            // console.log(univer[univer.selectedIndex].value);
+            if (univer[univer.selectedIndex].value === "") {
+                document.getElementsByClassName('modal-body')[0].textContent = "Необходимо выбрать университет!";
+                myModal.show();
+                return;
+            }
+            if (fac[fac.selectedIndex].value === "default") {
+                document.getElementsByClassName('modal-body')[0].textContent = "Необходимо выбрать факультет!";
+                myModal.show();
+                return;
+            }
+            if (prog[prog.selectedIndex].value === "default") {
+                document.getElementsByClassName('modal-body')[0].textContent = "Необходимо выбрать прорамму!";
+                myModal.show();
+                return;
+            }
+
+            const response = await fetch("Application", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    ProgramId: prog[prog.selectedIndex].value,
+                })
+            });
+
+            if (response.ok === true) {
+                const msg = await response.json();
+
+                if (msg["message"] === "Ok") {
+                    document.getElementsByClassName('modal-body')[0].textContent = "Заявление студента успешно подано!"
+                    console.log("Ok");
+                    myModal.show()
+                }
+                else {
+                    document.getElementsByClassName('modal-body')[0].textContent = msg["message"];
+                    myModal.show();
+                }
+            }
+            else {
+                document.getElementsByClassName('modal-body')[0].textContent = "Заявление студента не было отправлено! Ошибка!"
+                const error = await response.json();
+                console.log(error.message);
+
+                // document.getElementsByClassName('modal-body')[0].textContent = error.message;
+
+                myModal.show()
+            }
+        });
+
+
+        fac.addEventListener("click", async function () {
+            console.log(fac[fac.selectedIndex].value);
+            fac.addEventListener("change", async function () {
+                const loadProg = await fetch("Program", {
+                    method: "POST",
+                    headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        FacultyId: fac[fac.selectedIndex].value
+                    })
+                });
+
+                if (loadProg.ok === true) {
+                    const msg = await loadProg.json();
+
+                    var i, L = prog.options.length - 1;
+
+                    for (i = L; i >= 1; i--) {
+                        prog.remove(i);
+                    }
+
+                    for (let i = 0; i < msg.length; i++) {
+                        var opt = document.createElement("option");
+
+                        opt.value = msg[i]["Id"];
+                        opt.text = msg[i]["ProgramName"];
+
+                        prog.add(opt);
+                    }
+                }
+                else {
+                    const error = await loadFac.json();
+                    console.log(error.message);
+                }
+            });
+        });
+
+        univer.addEventListener("click", async function() {
+            
+            univer.addEventListener("change", async function () {
+                const loadFac = await fetch("Faculty", {
+                    method: "POST",
+                    headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        UniversityId: univer.value
+                    })
+                });
+
+                if (loadFac.ok === true) {
+                    const msg = await loadFac.json();
+
+                    var i, L = fac.options.length - 1;
+
+                    for (i = L; i >= 1; i--) {
+                        fac.remove(i);
+                    }
+
+                    for (let i = 0; i < msg.length; i++) {
+                        var opt = document.createElement("option");
+                        
+                        opt.value = msg[i]["Id"];
+                        opt.text = msg[i]["FacultyName"];
+                        
+                        fac.add(opt);
+                    }
+                }
+                else {
+                    const error = await loadFac.json();
+                    console.log(error.message);
+                }
+            });
+        });
+    </script>
+}

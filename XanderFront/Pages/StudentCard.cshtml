@@ -1,0 +1,236 @@
+﻿@page
+@model XanderFront.Pages.StudentCardModel
+@{
+}
+
+<h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Данные студента</h3>
+
+<div class="w-50 p-3 mx-auto">
+    <div class="row">
+        <div class="col-md-6 mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="text" id="firstName" class="form-control form-control-lg" />
+                <label class="form-label" for="firstName">Имя</label>
+            </div>
+
+        </div>
+        <div class="col-md-6 mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="text" id="lastName" class="form-control form-control-lg" />
+                <label class="form-label" for="lastName">Фамилия</label>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-4 d-flex align-items-center">
+
+            <div data-mdb-input-init class="form-outline datepicker w-100">
+                <input type="date" class="form-control form-control-lg" id="birthdayDate"
+                       min='2000-01-01' max='2024-12-31' value="2000-01-01">
+                <label for="birthdayDate" class="form-label">Дата рождения</label>
+            </div>
+
+        </div>
+        <div class="col-md-6 mb-4">
+
+            <h6 class="mb-2 pb-1">Пол: </h6>
+
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="femaleGender"
+                       value="0" checked />
+                <label class="form-check-label" for="femaleGender">Женский</label>
+            </div>
+
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="maleGender"
+                       value="1" />
+                <label class="form-check-label" for="maleGender">Мужской</label>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-4 pb-2">
+
+@*             <div data-mdb-input-init class="form-outline">
+                <input type="email" id="emailAddress" class="form-control form-control-lg" />
+                <label class="form-label" for="emailAddress">Email</label>
+            </div> *@
+            <div data-mdb-input-init class="form-outline">
+
+                @Html.DropDownList("Country",
+                         new SelectList(Model.countries, "Id", "CountryName"),
+                         "Выберите страну",
+                         new { @class = "form-control" })
+                <label class="form-label" for="Country">Страна</label>
+                @*<select asp-for="countries" class="form-control" name="CountryId" asp-items="@(new SelectList(Model.countries, "Id", "CountryName"))">
+                <option>-- select the country --</option>
+                </select>
+                <span asp-validation-for="countries" class="text-danger"></span> *@
+            </div>
+        </div>
+        <div class="col-md-6 mb-4 pb-2">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="tel" id="phoneNumber" class="form-control form-control-lg" />
+                <label class="form-label" for="phoneNumber">Номер телефона</label>
+            </div>
+
+        </div>
+    </div>
+
+@*     <div class="row">
+        <div class="col-md-6 mb-4 pb-2">
+            <div data-mdb-input-init class="form-outline">
+                
+                @Html.DropDownList("Country",
+                new SelectList(Model.countries, "Id", "CountryName"),
+                "Select Country",
+                new {@class = "form-control"})
+                <label class="form-label" for="Country">Страна</label>
+            </div>
+        </div>
+    </div> *@
+
+    <div class="mt-4 pt-2">
+        <input data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg" type="submit" value="Submit" id="Submit" />
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Вы были успешно зарегестрированы!
+            </div>
+            <div class="modal-footer">
+                <script>
+                </script>
+                @* <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> *@
+                <button type="button" class="btn btn-primary" id="ok_button">Ок</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', async function () {
+            document.getElementsByClassName('form-check-input')[0].checked = true;
+
+            const loadCard = await fetch("CardStudent", {
+                method: "GET",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" }
+            });
+
+            if (loadCard.ok === true) {
+                const msg = await loadCard.json();
+                console.log(msg);
+
+                if (msg["find"] === "Ok") {
+                    var stud = msg["stud"];
+
+                    document.getElementById('firstName').value = stud["FirstName"];
+                    document.getElementById('lastName').value = stud["LastName"];
+                    document.getElementById('phoneNumber').value = stud["PhoneNumber"];
+                    document.getElementById('birthdayDate').value = stud["Birth"].split('T')[0];
+                    document.getElementById('Country').value = stud["CountryId"];
+
+                    var checkBoxes = document.getElementsByClassName('form-check-input');
+
+                    if (stud["Sex"]) {
+                        checkBoxes[1].checked = true;
+                    }
+                    else {
+                        checkBoxes[0].checked = true;
+                    }
+                }
+            }
+            else {
+                const error = await loadCard.json();
+                console.log(error.message);
+            }
+
+        }, false);
+
+
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'))
+
+        document.getElementsByClassName("close")[0].addEventListener("click", function () {
+            myModal.hide();
+        });
+
+        document.getElementById("ok_button").addEventListener("click", function () {
+            myModal.hide();
+        });
+
+
+        document.getElementById("Submit").addEventListener("click", async function () {
+            var checkedValue = null;
+            var inputElements = document.getElementsByClassName('form-check-input');
+
+            if (inputElements[0].checked) {
+                checkedValue = 0;
+            }
+            else {
+                checkedValue = 1;
+            }
+
+            if (document.getElementById('Country').value === "") {
+                document.getElementsByClassName('modal-body')[0].textContent = "Необходимо выбрать страну!";
+                myModal.show();
+                return;
+            }
+
+            const response = await fetch("CardStudent", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    FirstName: document.getElementById('firstName').value,
+                    LastName: document.getElementById('lastName').value,
+                    Sex: checkedValue,
+                    PhoneNumber: document.getElementById('phoneNumber').value,
+                    Birth: document.getElementById('birthdayDate').value,
+                    CountryId: document.getElementById('Country').value
+                })
+            });
+            if (response.ok === true) {
+                const msg = await response.json();
+
+                if (msg["message"] === "Ok") {
+                    document.getElementsByClassName('modal-body')[0].textContent = "Данные студента успешно сохранены!"
+                    console.log("Ok");
+                    myModal.show()
+                }
+                else {
+                    document.getElementsByClassName('modal-body')[0].textContent = msg["message"];
+                    myModal.show();
+                }
+            }
+            else {
+                document.getElementsByClassName('modal-body')[0].textContent = "Данные студента не были сохранены! Ошибка!"
+                const error = await response.json();
+                console.log(error.message);
+
+                // document.getElementsByClassName('modal-body')[0].textContent = error.message;
+
+                myModal.show()
+            }
+        });
+
+    </script>
+}

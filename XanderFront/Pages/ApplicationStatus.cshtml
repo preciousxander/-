@@ -1,0 +1,52 @@
+﻿@page
+@model XanderFront.Pages.ApplicationStatusModel
+
+@{
+}
+
+<div class="w-50 p-3 mx-auto">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">ФИО</th>
+                <th scope="col">Программа</th>
+                <th scope="col">Факультет</th>
+                <th scope="col">Дата подачи</th>
+                <th scope="col">Статус</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.showApplications)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Count)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProgramName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FacultyName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script
+
+
+    </script>
+}

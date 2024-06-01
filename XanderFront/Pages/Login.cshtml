@@ -1,0 +1,104 @@
+﻿@page
+@model XanderFront.Pages.Index1Model
+@{
+}
+
+<h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Login Form</h3>
+
+@* <form class="w-50 p-3 mx-auto" method="post" action="RegisterInput"> *@
+<div class="w-50 p-3 mx-auto">
+    <!-- Login input -->
+    <div class="form-outline mb-4">
+        <input type="text" id="login" class="form-control" />
+        <label class="form-label" for="login">Логин</label>
+    </div>
+
+    <!-- Password input -->
+    <div class="form-outline mb-4">
+        <input type="password" id="password" class="form-control" />
+        <label class="form-label" for="password">Пароль</label>
+    </div>
+
+
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary btn-block mb-4" id="Submit">Вход</button>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Вы были успешно зарегестрированы!
+            </div>
+            <div class="modal-footer">
+                <script>
+                </script>
+                @* <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> *@
+                <button type="button" class="btn btn-primary" id="ok_button">Ок</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        // window.onload;
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'))
+
+        document.getElementsByClassName("close")[0].addEventListener("click", function () {
+            myModal.hide();
+        });
+
+        document.getElementById("ok_button").addEventListener("click", function () {
+            myModal.hide();
+        });
+
+        document.getElementById("Submit").addEventListener("click", async function () {
+            
+            const response = await fetch("Login", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    Login: document.getElementById('login').value,
+                    Password: document.getElementById('password').value,
+                })
+            });
+            if (response.ok === true) {
+                const msg = await response.json();
+
+                if (msg["message"] === "Ok") {
+                    // alert("OK");
+                    console.log("Ok");
+                    sessionStorage.setItem(tokenKey, msg["token"]);
+                    // sessionStorage.setItem("jwt_token", msg["token"]);
+                    console.log("Token set");
+                    // console.log(window.location.href.replace("Login", ""))
+                    window.location.replace(window.location.href.replace("Login", ""));
+                    // const resp = await fetch(document.location.href, { method: 'HEAD' });
+                    // const headers = Object.fromEntries(resp.headers.entries());
+                }
+                else {
+                    document.getElementsByClassName('modal-body')[0].textContent = "Неверно указан логин или пароль!"
+                    myModal.show();
+                }
+            }
+            else {
+                const error = await response.json();
+                console.log(error.message);
+                
+                document.getElementsByClassName('modal-body')[0].textContent = "Неверно указан логин или пароль!"
+                myModal.show();
+            }
+        });
+
+    </script>
+}

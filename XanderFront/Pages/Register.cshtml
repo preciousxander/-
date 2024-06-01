@@ -1,0 +1,197 @@
+﻿@page
+@model XanderFront.Pages.RegisterModel
+@{
+}
+
+<h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Registration Form</h3>
+
+@* <form method="post" action="Register"> *@
+<div class="w-50 p-3 mx-auto">
+    <div class="row">
+        <div class="form-outline mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="text" id="login" name="login" class="form-control form-control-lg" />
+                <label class="form-label" for="login">Login</label>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-outline mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="password" id="password" name="password" class="form-control form-control-lg" />
+                <label class="form-label" for="password">Password</label>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-outline mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="password" id="passwordAgain" name="passwordAgain" class="form-control form-control-lg" />
+                <label class="form-label" for="passwordAgain">Again Password</label>
+            </div>
+
+        </div>
+    </div>
+
+
+ @*    <div class="row">
+        <div class="col-md-6 mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="text" id="firstName" class="form-control form-control-lg" />
+                <label class="form-label" for="firstName">First Name</label>
+            </div>
+
+        </div>
+        <div class="col-md-6 mb-4">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="text" id="lastName" class="form-control form-control-lg" />
+                <label class="form-label" for="lastName">Last Name</label>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-4 d-flex align-items-center">
+
+            <div data-mdb-input-init class="form-outline datepicker w-100">
+                <input type="date" class="form-control form-control-lg" id="birthdayDate" />
+                <label for="birthdayDate" class="form-label">Birthday</label>
+            </div>
+
+        </div>
+        <div class="col-md-6 mb-4">
+
+            <h6 class="mb-2 pb-1">Gender: </h6>
+
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="femaleGender"
+                       value="option1" checked />
+                <label class="form-check-label" for="femaleGender">Female</label>
+            </div>
+
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="maleGender"
+                       value="option2" />
+                <label class="form-check-label" for="maleGender">Male</label>
+            </div>
+
+        </div> 
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-4 pb-2">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="email" id="emailAddress" class="form-control form-control-lg" />
+                <label class="form-label" for="emailAddress">Email</label>
+            </div>
+
+        </div>
+        <div class="col-md-6 mb-4 pb-2">
+
+            <div data-mdb-input-init class="form-outline">
+                <input type="tel" id="phoneNumber" class="form-control form-control-lg" />
+                <label class="form-label" for="phoneNumber">Phone Number</label>
+            </div>
+
+        </div>
+    </div>*@
+
+    <div class="mt-4 pt-2">
+        <input data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg" type="submit" value="Регистрация" id="Submit" />
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Вы были успешно зарегестрированы!
+            </div>
+            <div class="modal-footer">
+                @* <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> *@
+                <button type="button" class="btn btn-primary" id="ok_button">Ок</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script>
+        // window.onload;
+        const token = sessionStorage.getItem(tokenKey);
+        
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'))
+        
+        // var datePicker = document.getElementById("birthdayDate");
+
+        // var currentDate = new Date().toISOString().split("T")[0];
+        // var currenYear = currentDate.split("-")[0];
+        // var newDate = currentDate.replace(currenYear, parseInt(currenYear) - 18);
+
+        // datePicker.max = newDate;
+
+        document.getElementsByClassName("close")[0].addEventListener("click", function () {
+            myModal.hide();
+        });
+
+
+
+        document.getElementById("Submit").addEventListener("click", async function () {
+            var pswd = document.getElementById('password').value;
+            var pswdAgain = document.getElementById('passwordAgain').value;
+
+            if (pswd != pswdAgain) {
+                document.getElementsByClassName('modal-body')[0].textContent = "Пароли должны быть одинаковыми!"
+                myModal.show()
+                // alert("Passwords must be equal!");
+                return;
+            }
+
+            const response = await fetch("Register", {
+                method: "POST",
+                headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    Login: document.getElementById('login').value,
+                    Password: pswd,
+                })
+            });
+            if (response.ok === true) {
+                const msg = await response.json();
+
+                if (msg["message"] === "Ok") { 
+                    // alert("OK");
+                    document.getElementsByClassName('modal-body')[0].textContent = "Вы были успешно зарегестрированы!"
+                    console.log("Ok");
+                    myModal.show()
+
+                    document.getElementById("ok_button").addEventListener("click", function () {
+                        myModal.hide();
+                        window.location.replace(window.location.href.replace("Register", "Login"));
+                    });
+                }
+            }
+            else {
+                const error = await response.json();
+                console.log(error.message);
+            }
+        });
+
+    </script>
+}
