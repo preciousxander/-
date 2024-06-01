@@ -1,0 +1,372 @@
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.exe
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.deps.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.runtimeconfig.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.AssemblyReference.cache
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfoInputs.cache
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfo.cs
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ZiiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ZiiWebAPI.props
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZiiWebAPI.props
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZiiWebAPI.props
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/scopedcss/bundle/ZiiWebAPI.styles.css
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/refint/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.genruntimeconfig.cache
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ref/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.Up2Date
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.exe
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.deps.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.runtimeconfig.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.AssemblyReference.cache
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfoInputs.cache
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfo.cs
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ZiiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ZiiWebAPI.props
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZiiWebAPI.props
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZiiWebAPI.props
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/scopedcss/bundle/ZiiWebAPI.styles.css
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.Up2Date
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/refint/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.genruntimeconfig.cache
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ref/ZiiWebAPI.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/source/repos/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.exe
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.deps.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.runtimeconfig.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfo.cs
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ZiiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ZiiWebAPI.props
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZiiWebAPI.props
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZiiWebAPI.props
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/scopedcss/bundle/ZiiWebAPI.styles.css
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CopyComplete
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/refint/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.genruntimeconfig.cache
+C:/Users/Yura/Desktop/zii/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ref/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.exe
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.deps.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.runtimeconfig.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.AssemblyReference.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfoInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfo.cs
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ZiiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ZiiWebAPI.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZiiWebAPI.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZiiWebAPI.props
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/scopedcss/bundle/ZiiWebAPI.styles.css
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.Up2Date
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/refint/ZiiWebAPI.dll
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.pdb
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.genruntimeconfig.cache
+C:/Users/Yura/Desktop/Новая папка (4)/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ref/ZiiWebAPI.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/appsettings.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.deps.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.runtimeconfig.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ZiiWebAPI.pdb
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/bin/Debug/net7.0/ClassDataBaseLibrary.pdb
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.AssemblyReference.cache
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfoInputs.cache
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.AssemblyInfo.cs
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CoreCompileInputs.cache
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ZiiWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ZiiWebAPI.props
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZiiWebAPI.props
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZiiWebAPI.props
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/scopedcss/bundle/ZiiWebAPI.styles.css
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.csproj.CopyComplete
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/refint/ZiiWebAPI.dll
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.pdb
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ZiiWebAPI.genruntimeconfig.cache
+/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/Debug/net7.0/ref/ZiiWebAPI.dll

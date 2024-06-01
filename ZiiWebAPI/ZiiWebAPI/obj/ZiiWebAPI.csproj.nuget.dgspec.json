@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/ZiiWebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj",
+        "projectName": "ClassDataBaseLibrary",
+        "projectPath": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj",
+        "packagesPath": "/Users/preciousxander/.nuget/packages/",
+        "outputPath": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/preciousxander/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/ZiiWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/ZiiWebAPI.csproj",
+        "projectName": "ZiiWebAPI",
+        "projectPath": "/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/ZiiWebAPI.csproj",
+        "packagesPath": "/Users/preciousxander/.nuget/packages/",
+        "outputPath": "/Users/preciousxander/Downloads/XanderFront/ZiiWebAPI/ZiiWebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/preciousxander/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj": {
+                "projectPath": "/Users/preciousxander/Downloads/XanderFront/ClassDataBaseLibrary/ClassDataBaseLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
